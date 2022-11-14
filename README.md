@@ -1,3 +1,5 @@
+NOTE: This is a fork of dashmap which allocates memory from the stdlib System allocator, always.  It is meant to be used for Ying profiler.
+
 # DashMap
 
 Blazingly fast concurrent map in Rust.
